@@ -1,7 +1,7 @@
 function perro() {
     document.getElementById("perro").innerHTML = '<div class="container text-center"><picture><img src="" id="foto" alt="" class="rounded border border-warning img-thumbnail"></picture><p>"I did it for you"</p></div>';
     var tiempo = 180;//tiempo en milisegundos
-    var arrImagenes = ['Captura1.png', 'Captura2.png'];
+    var arrImagenes = ['https://raw.githubusercontent.com/ehercor0612/Borzoi/main/Captura1.PNG', 'https://raw.githubusercontent.com/ehercor0612/Borzoi/main/Captura2.png'];
   
     _img = document.getElementById('foto');
   
