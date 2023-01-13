@@ -5,7 +5,7 @@ Como en los memes
       Paso 1
 ===================
 
-Pasas el script a tu .js y luego lo referencias en tu html.
+Referencias el script en tu html.
 
 ===================
       Paso 2
